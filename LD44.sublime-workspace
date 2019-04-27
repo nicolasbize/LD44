@@ -1,0 +1,647 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"folder",
+				"folder_path"
+			],
+			[
+				"inlin",
+				"inline-block\tdisplay"
+			],
+			[
+				"npc",
+				"npcCars"
+			],
+			[
+				"START",
+				"START_AT_LVL"
+			],
+			[
+				"curr",
+				"currentLevel"
+			],
+			[
+				"hasp",
+				"hasPlayerWon"
+			],
+			[
+				"current",
+				"currentLevel"
+			],
+			[
+				"curren",
+				"currentLevel"
+			],
+			[
+				"waiti",
+				"waitingOutside"
+			],
+			[
+				"hasP",
+				"hasPlayerWon"
+			],
+			[
+				"cur",
+				"currentLevel"
+			],
+			[
+				"ac",
+				"actualMoney"
+			],
+			[
+				"has",
+				"hasPlayerLost"
+			],
+			[
+				"time",
+				"timePickup"
+			],
+			[
+				"canM",
+				"canMoveUp"
+			],
+			[
+				"tim",
+				"timePickup"
+			],
+			[
+				"waiting",
+				"waitingNpc"
+			],
+			[
+				"pending",
+				"pendingCustomers"
+			],
+			[
+				"waitin",
+				"waitingNpc"
+			],
+			[
+				"cu",
+				"currentLevel"
+			],
+			[
+				"curre",
+				"currentOption"
+			],
+			[
+				"key",
+				"keyPressed"
+			],
+			[
+				"text",
+				"textMoney"
+			],
+			[
+				"leaving",
+				"leavingCustomer"
+			],
+			[
+				"leavingC",
+				"leavingCars"
+			],
+			[
+				"inde",
+				"indexRemove"
+			],
+			[
+				"leave",
+				"leavingCustomer"
+			],
+			[
+				"delive",
+				"deliveryZone"
+			],
+			[
+				"deliv",
+				"deliveryRect"
+			],
+			[
+				"in",
+				"intersection"
+			],
+			[
+				"upda",
+				"updateDeliveryPlatform"
+			],
+			[
+				"TIME_",
+				"TIME_GET_MAD"
+			],
+			[
+				"mone",
+				"moneyState"
+			],
+			[
+				"spr",
+				"sprIndex"
+			],
+			[
+				"wai",
+				"waitingForPicking"
+			],
+			[
+				"NB_",
+				"NB_NPC_TYPES"
+			],
+			[
+				"is",
+				"isNPC"
+			],
+			[
+				"get",
+				"getBounds"
+			],
+			[
+				"update",
+				"updateCharacter"
+			],
+			[
+				"ang",
+				"angularVelocity"
+			],
+			[
+				"back",
+				"backWheelsPosition"
+			],
+			[
+				"ba",
+				"backWheelsPosition"
+			],
+			[
+				"sin",
+				"sinDegrees"
+			],
+			[
+				"cos",
+				"cosDegrees"
+			],
+			[
+				"tur",
+				"turningRight"
+			],
+			[
+				"Wind",
+				"WindowClass"
+			],
+			[
+				"cl",
+				"cbClsExtra"
+			],
+			[
+				"lp",
+				"lpfnWndProc"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/C++/C++ Single File.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 588.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"glue",
+				"Glue - Launch"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 588.0
+	},
+	"console":
+	{
+		"height": 171.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Nico/Dropbox/code/arcade-games-from-scratch"
+	],
+	"file_history":
+	[
+		"/C/Users/Nico/Downloads/Project Porcupine - Ep 029/Project Porcupine - Ep 029/Assets/Scripts/Controllers/TileSpriteController.cs",
+		"/C/Users/Nico/Downloads/bender/Bender/FREE FONT LICENSE.txt",
+		"/C/Users/Nico/Downloads/Project Porcupine - Ep 029/Project Porcupine - Ep 029/Assets/Scripts/Controllers/WorldController.cs",
+		"/C/Users/Nico/Downloads/Project Porcupine - Ep 029/Project Porcupine - Ep 029/Assets/Scripts/Models/Character.cs",
+		"/C/Code/Unity/foodtruckstory/.gitignore",
+		"/C/Users/Nico/Downloads/CHK_343.csv",
+		"/C/Users/Nico/Downloads/Project Porcupine - Ep 017/Project Porcupine - Ep 017/Assets/Controllers/BuildModeController.cs",
+		"/C/Users/Nico/AppData/Local/Temp/Temp1_Project Porcupine - Ep 006.zip/Project Porcupine - Ep 006/Assets/Utilities/SimplePool.cs",
+		"/C/Users/Nico/Downloads/Project Porcupine - Ep 017/Project Porcupine - Ep 017/Assets/Controllers/WorldController.cs",
+		"/C/Users/Nico/Downloads/Project Porcupine - Ep 017/Project Porcupine - Ep 017/Assets/Controllers/TileSpriteController.cs",
+		"/C/Users/Nico/Downloads/Project Porcupine - Ep 017/Project Porcupine - Ep 017/Assets/Controllers/JobSpriteController.cs",
+		"/C/Users/Nico/Downloads/Project Porcupine - Ep 017/Project Porcupine - Ep 017/Assets/Controllers/FurnitureSpriteController.cs",
+		"/C/Users/Nico/Downloads/Project Porcupine - Ep 019/Project Porcupine - Ep 019/Assets/Controllers/BuildModeController.cs",
+		"/C/Users/Nico/Downloads/Project Porcupine - Ep 019/Project Porcupine - Ep 019/Assets/Controllers/CharacterSpriteController.cs",
+		"/C/Users/Nico/Downloads/Project Porcupine - Ep 019/Project Porcupine - Ep 019/Assets/Controllers/FurnitureSpriteController.cs",
+		"/C/Users/Nico/Downloads/Project Porcupine - Ep 019/Project Porcupine - Ep 019/Assets/Controllers/JobSpriteController.cs",
+		"/C/Users/Nico/Downloads/Project Porcupine - Ep 019/Project Porcupine - Ep 019/Assets/Models/Character.cs",
+		"/C/Users/Nico/Downloads/Project Porcupine - Ep 024/Project Porcupine - Ep 024/Assets/Scripts/Pathfinding/Path_TileGraph.cs",
+		"/C/Users/Nico/AppData/LocalLow/DefaultCompany/BaseBuilding/save.json",
+		"/C/Code/C#/SiliconValley/Engine/Game/GameState.cs",
+		"/C/Users/Nico/Downloads/Project Porcupine - Ep 017/Project Porcupine - Ep 017/Assets/Models/Job.cs",
+		"/C/Users/Nico/Downloads/Project Porcupine - Ep 017/Project Porcupine - Ep 017/Assets/Models/JobQueue.cs",
+		"/C/Users/Nico/Downloads/Project Porcupine - Ep 019/Project Porcupine - Ep 019/Assets/Controllers/MouseController.cs",
+		"/C/Users/Nico/Downloads/Project Porcupine - Ep 019/Project Porcupine - Ep 019/Assets/Controllers/TileSpriteController.cs",
+		"/C/Users/Nico/Downloads/Project Porcupine - Ep 019/Project Porcupine - Ep 019/Assets/Controllers/WorldController.cs",
+		"/C/Users/Nico/Downloads/Project Porcupine - Ep 019/Project Porcupine - Ep 019/Assets/Models/Furniture.cs",
+		"/C/Users/Nico/Downloads/Project Porcupine - Ep 019/Project Porcupine - Ep 019/Assets/Models/Inventory.cs",
+		"/C/Users/Nico/Downloads/Project Porcupine - Ep 019/Project Porcupine - Ep 019/Assets/Models/Job.cs",
+		"/C/Users/Nico/Downloads/Project Porcupine - Ep 019/Project Porcupine - Ep 019/Assets/Models/JobQueue.cs",
+		"/C/Users/Nico/Downloads/Project Porcupine - Ep 019/Project Porcupine - Ep 019/Assets/Models/Tile.cs",
+		"/C/Users/Nico/Downloads/Project Porcupine - Ep 019/Project Porcupine - Ep 019/Assets/Models/World.cs",
+		"/C/Users/Nico/AppData/Local/Temp/Temp1_Project Porcupine - Ep 005.zip/Project Porcupine - Ep 005/Assets/Models/Tile.cs",
+		"/C/Users/Nico/AppData/Local/Temp/Temp1_Project Porcupine - Ep 005.zip/Project Porcupine - Ep 005/Assets/Models/World.cs",
+		"/C/Users/Nico/AppData/Local/Temp/Temp1_Project Porcupine - Ep 005.zip/Project Porcupine - Ep 005/Assets/Controllers/MouseController.cs",
+		"/C/Program Files (x86)/Launchy/skins/Black Glass/style.qss",
+		"/C/Users/Nico/Dropbox/code/arcade-games-from-scratch/beginner/pong/index.md",
+		"/C/Users/Nico/Dropbox/code/arcade-games-from-scratch/generate-docs.py",
+		"/C/Users/Nico/Dropbox/code/arcade-games-from-scratch/intermediate/index.html",
+		"/C/Users/Nico/Dropbox/code/arcade-games-from-scratch/beginner/index.html",
+		"/C/Users/Nico/Dropbox/code/arcade-games-from-scratch/index.html",
+		"/C/Users/Nico/Dropbox/code/arcade-games-from-scratch/README.md",
+		"/C/Users/Nico/Dropbox/code/arcade-games-from-scratch/pong/index.md",
+		"/C/Users/Nico/Dropbox/code/arcade-games-from-scratch/simple-grid.css",
+		"/C/Users/Nico/Dropbox/code/arcade-games-from-scratch/beginner/setup/index.html",
+		"/C/Users/Nico/Dropbox/code/arcade-games-from-scratch/beginner/setup/index.md",
+		"/C/Users/Nico/Dropbox/code/arcade-games-from-scratch/intermediate/setup/index.md",
+		"/C/Users/Nico/Dropbox/code/arcade-games-from-scratch/beginner/setup/metadata.yaml",
+		"/C/Users/Nico/Dropbox/code/arcade-games-from-scratch/intermediate/setup/metadata.yaml",
+		"/C/Users/Nico/Dropbox/code/arcade-games-from-scratch/page-template.html",
+		"/C/temp/pong/pong.tic.html",
+		"/C/Users/Nico/Dropbox/code/arcade-games-from-scratch/intermediate/setup/index.html",
+		"/C/Users/Nico/Dropbox/code/arcade-games-from-scratch/beginner/pong/index.html",
+		"/C/temp/get-pip.py",
+		"/C/Code/Html/arcade-games-from-scratch/index.html",
+		"/C/Code/Html/arcade-games-from-scratch/simple-grid.css",
+		"/C/Code/Html/arcade-games-from-scratch/pong/index.html",
+		"/C/Code/Html/arcade-games-from-scratch/setup/index.html",
+		"/C/Code/C#/SiliconValley/Notes.txt",
+		"/C/Code/Unity/Silicon Valley/Assets/Notes/devnotes.txt",
+		"/C/Code/C#/SiliconValley/Content/Fonts/Font_H1.spritefont",
+		"/C/Code/C#/SiliconValley/Content/Fonts/Font_H2.spritefont",
+		"/C/Code/C#/SiliconValley/Content/Fonts/Font_P.spritefont",
+		"/C/Code/C#/SiliconValley/Content/Fonts/Pixeled.ttf",
+		"/C/Code/C#/SiliconValley/Content/Shaders/Glow.fx",
+		"/C/Users/Nico/AppData/Local/Temp/Temp1_16x16-free-application-icons.zip/16x16-free-application-icons/readme.txt",
+		"/C/Code/C#/SiliconValley/Content/Fonts/DebugFont.spritefont",
+		"/C/Code/C#/SiliconValley/Content/Fonts/PFont.spritefont",
+		"/C/Users/Nico/AppData/Local/Temp/Temp1_blocked.zip/license.txt",
+		"/C/Users/Nico/AppData/Local/Temp/Temp1_blocked.zip/read me.txt",
+		"/C/Code/Python/test/test.py",
+		"/C/Code/Python/test/game.py",
+		"/C/Code/LudumDare/LD42/LD42",
+		"/C/Code/LudumDare/LD42/index.html",
+		"/C/Code/LudumDare/LD42/game.js",
+		"/C/Code/LudumDare/LD42/phaser-3.11.0/dist/phaser.js",
+		"/C/Code/LudumDare/LD42/phaser-3.11.0/src/gameobjects/group/Group.js",
+		"/C/Code/LudumDare/LD42/phaser-3.11.0/dist/phaser-arcade-physics.js",
+		"/C/Code/LudumDare/LD42/phaser-3.11.0/src/physics/arcade/components/Enable.js",
+		"/C/Code/LudumDare/LD42/phaser-3.11.0/src/input/keyboard/KeyboardPlugin.js",
+		"/C/Users/Nico/Downloads/PoC_source/src/com/mojang/escape/Game.java",
+		"/C/Users/Nico/Downloads/PoC_source/src/com/mojang/escape/EscapeApplet.java",
+		"/C/Users/Nico/Downloads/PoC_source/src/com/mojang/escape/EscapeComponent.java",
+		"/C/Users/Nico/source/repos/MonoPlayground/MonoPlayground/Content/Fonts/H1.spritefont",
+		"/C/Users/Nico/Documents/rpg-story.txt",
+		"/Z/labyrinth/map.c",
+		"/Z/labyrinth/labyrinth.c",
+		"/Z/labyrinth/walls.c",
+		"/Z/labyrinth/build.bat",
+		"/Z/labyrinth/walls.h",
+		"/Z/handmade/code/build.bat",
+		"/Z/handmade/misc/shell.bat",
+		"/Z/handmade/code/win32_handmade.cpp",
+		"/C/Users/Nico/AppData/Roaming/Sublime Text 3/Packages/User/Glue.sublime-settings",
+		"/C/Users/Nico/AppData/Roaming/Sublime Text 3/Packages/Glue/messages/help.txt",
+		"/Z/handmade/code/build-bat.sublime-build",
+		"/Z/handmade/win32_handmade.cpp",
+		"/Z/handmade/build.bat",
+		"/C/Code/Unity/Silicon Valley/Assets/Notes/blender-shortcuts.txt",
+		"/C/Users/Nico/Dropbox/docs/html.txt",
+		"/C/Users/Nico/Dropbox/docs/todo.txt",
+		"/C/Users/Nico/Dropbox/docs/settings.txt",
+		"/C/Code/Unity/IsoWorld/Assets/Scripts/Environment/MapBuilder.cs",
+		"/C/Code/Unity/IsoWorld/Assets/Scripts/Camera/CameraDrag.cs",
+		"/C/Code/Unity/IsoWorld/Assets/Scripts/Environment/CellManager.cs",
+		"/C/Code/Unity/IsoWorld/Assets/Scripts/GUI/GUI.cs",
+		"/C/Code/Unity/IsoWorld/Assets/Scripts/GUI/Clickable.cs",
+		"/C/Code/Unity/IsoWorld/Assets/Scripts/Environment/CellMouseOver.cs",
+		"/C/Code/Unity/Silicon Valley/.gitignore",
+		"/C/Code/Unity/IsoWorld/Assets/Resources/Levels/office-16x16.json",
+		"/C/Code/Unity/IsoWorld/Assets/Resources/Levels/office-16x16.txt",
+		"/C/Users/Nico/code/gotopixel/README.md"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 168.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"cbCharacterChanged",
+			"dowork",
+			"</p>",
+			"<p>",
+			"width=240 ",
+			"](",
+			"left",
+			"1",
+			"mainmenu",
+			"initializeCarSprite",
+			"readyForPickup",
+			"initializeCarSprite",
+			"updateMoney",
+			"isPrevLevelGoodPerf",
+			"hasplayerwon",
+			"START_AT_LVL",
+			"currentLev",
+			"currentLvl",
+			"currentLvl =",
+			"currentLevel",
+			"levelCars",
+			"hasPlayerLost",
+			"music.",
+			"currentLevel",
+			"currentLevel ==",
+			"if curren",
+			"timepick",
+			"waitingou",
+			"betweenleve",
+			"between",
+			"updateTime",
+			"makecar",
+			"music.p",
+			"hasPlayerLost",
+			"waits",
+			"waitingNpc",
+			"waitingnp",
+			".destr",
+			".mad",
+			"impatien",
+			".impatien",
+			"npc.appeared = fa",
+			"updateCurrentTargetCar",
+			"arrowtim",
+			"sort",
+			"pendingCustomers",
+			"arrowtimer",
+			"arrow",
+			"updateDeliveryPlatform",
+			"sortedCustomers",
+			"updateDeliveryPlatform",
+			"waiting",
+			"npc.waiting.de",
+			"waitingNpc = nul",
+			"pendingCustomer",
+			"waitingNpc",
+			"timePickup",
+			"makeCar",
+			"updateWaitingNpc",
+			"waitingNpc",
+			"speechText",
+			"waitingNpc",
+			"waitingNpcs",
+			"levelCars",
+			"TIME_GET_IMPATIENT",
+			"switch",
+			"instructionsBg",
+			"isDown",
+			"space.",
+			"cursors.",
+			"phaser.ga",
+			"scene",
+			".y +",
+			"setStyle",
+			"style.",
+			"updatemon",
+			".text",
+			"font",
+			"addColor",
+			"updateMoney",
+			"givemoney",
+			"updateTime",
+			".destroy",
+			"sndwaiting",
+			"waiting",
+			"sndCar",
+			"sndStep",
+			"volume",
+			"sndstep",
+			"isplay",
+			"sndSteps",
+			"waitingnpc",
+			"snddoo",
+			"sndoor",
+			"leavecar",
+			"money",
+			"audio",
+			"loop",
+			"loopFull",
+			"music",
+			"updateDeliveryPlatform",
+			"carReadyForCustomer",
+			"updateDeliveryPlatform",
+			"tint",
+			"pendingcu",
+			"leavecar",
+			"updateNpcCar",
+			"leavingCars",
+			"waitingNpcs",
+			"pendingCustomers",
+			"waitingNpcs",
+			"deliveryZone",
+			"tint =",
+			"inCar = false",
+			"inCar = true",
+			"inCar = false",
+			".tint",
+			"loadingZone",
+			"pending",
+			"text",
+			"textTime",
+			"wallgroup",
+			"PhysicsGroupConfig",
+			"wallGroup",
+			"this.add",
+			"carGroup",
+			"walls",
+			"bringToTop"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"0",
+			"gameScene",
+			"deliveryZone",
+			"waitingForService",
+			"updateControlledCar",
+			"CAR_MAX_VELOCITY",
+			"CAR_FRICTION",
+			"\"top\"",
+			"\"walls\"",
+			"\"available\"",
+			"\"tex\":"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 64.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 223.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "LD44.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Animation"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 281.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

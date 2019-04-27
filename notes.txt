@@ -1,0 +1,24 @@
+Your life is currency
+=====================
+
+Factorio-inspired game... (but it doesn't fit the theme! :(
+
+Start with sum of money
+Can research building blocks:
+- delivery - pick type of raw material + qtty
+- selling platform - sells end product
+- belt - moves elements around
+- forge - transforms raw material into plates, or plates into steel
+- container - serves as buffer
+- assembly - transforms several objects into final or subproduct
+- inserter - takes things from one place to another
+- splitter - splits into 2 lanes
+- filter - filters into 2 lanes
+
+[ ] grid system
+[ ] placing a block
+[ ] rotating blocks
+[ ] other blocks
+[ ] resource flow
+
+
