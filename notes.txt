@@ -5,23 +5,64 @@ Factorio-inspired game... (but it doesn't fit the theme! :(
 
 Start with sum of money
 Can research building blocks:
-- delivery - pick type of raw material + qtty
-- selling platform - sells end product
-- belt - moves elements around
+
+- producer - pick type of raw material + qtty
+- delivery - sells end product
 - forge - transforms raw material into plates, or plates into steel
+- belt - moves elements around
 - container - serves as buffer
 - assembly - transforms several objects into final or subproduct
 - inserter - takes things from one place to another
 - splitter - splits into 2 lanes
 - filter - filters into 2 lanes
 
+
 [X] grid system
 [X] placing a block
 [X] rotating blocks
-[ ] other blocks
+[X] UI frame
+[X] build menu
+[X] other blocks
 [ ] resource flow
 
-Grid size:
-32x32
+Menu:
+{b}uild
+{m}ove
+{d}estroy
+{u}pgrade
+{r}esearch
+{e}xpand
 
-640x480 ==> 20x15
+top: cash, flow/s, date/retirement
+
+620 (4 padd x 65) for 3 items  120x120   360
+
+525 vertical
+
+3 items x 125px
+
+Resources:
+- copper => copper plates
+- gold => gold plates
+- sand => silicon plates
+- iron => iron plates
+
+Assembly:
+2 copper => copper wire
+2 gold => gold wire
+5 silicon plates => transistor
+2 copper + 1 copper wire => resistor
+2 iron plates => iron gear
+2 gold plates => gold gear
+3 gold gear + 3 iron gear => Logical Unit
+3 transistor + 2 resistor + 2 iron plates => PSU
+2 LU + gold wire + 2 transistor => hard drive
+3 gold wire + 3 transistor => RAM
+4 transistor + 4 resistor + 2 silicon plates => CPU
+3 CPU + 2 RAM + Logical Unit => Motherboard
+Motherboard + Monitor + Video card => Computer
+3 Computer + 2 Motherboard => Robot
+5 Computers + 4 Robots + 3 LU => Spacecraft
+
+
+
