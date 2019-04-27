@@ -15,10 +15,13 @@ Can research building blocks:
 - splitter - splits into 2 lanes
 - filter - filters into 2 lanes
 
-[ ] grid system
-[ ] placing a block
-[ ] rotating blocks
+[X] grid system
+[X] placing a block
+[X] rotating blocks
 [ ] other blocks
 [ ] resource flow
 
+Grid size:
+32x32
 
+640x480 ==> 20x15
